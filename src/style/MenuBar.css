@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #121212 !important;
+}
+
+/* .navbar-all-back {
+    background:  !important;
+    height: 332px;
+} */
+
+.css-12i7wg6-MuiPaper-root-MuiDrawer-paper {
+  border: none !important;
+}
+
+.auth-all {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  align-items: center;
+}
+
+.css-1y207n2-MuiButtonBase-root-MuiIconButton-root{
+  margin: 0% !important;
+  padding: 0% !important;
+  width: 9vw !important;
+  height: auto;
+}
+
+
+.css-6hp17o-MuiList-root-MuiMenu-list{
+  padding: 0 !important;
+  margin: 0% !important;
+  background-color: black;
+  color: white;
+  width: 9vw !important;
+  /* padding-top: 10vh !important; */
+  border: 1px solid white;
+  overflow: hidden;
+  position: relative !important;
+}
+
+
+.css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root{
+  width: fit-content !important;
+  border-radius: 5px;
+}
+
+.icon__auth{
+
+}
+
+.hover-cline-text:hover {
+  color: white;
+}
+
+.css-lopdmi-MuiPaper-root-MuiAppBar-root {
+  box-shadow: none !important;
+}
